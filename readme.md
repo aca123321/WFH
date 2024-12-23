@@ -1,1 +1,1 @@
-## Personal media file server to host media
+## Personal media file server
